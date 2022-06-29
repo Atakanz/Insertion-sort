@@ -39,4 +39,7 @@ Average case
 [2,3,4,5,7,9,8,15,6]
 ```
 
-
+Patika profil linki:
+```
+https://app.patika.dev/atakanzerafet
+```
